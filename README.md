@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > **This is a signpost repo — the skills live in [aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills).**
-> The 16 skills listed below are actively developed there, as one of 4 disciplines in a 69-skill bundle sharing one contract, five benchmark-driven gates, and keyless data connectors. This repo carries no skill content — it exists so you can find the discipline; the bundle is where you install it.
+> The 16 skills listed below are actively developed there, as one of 5 disciplines in an 86-skill bundle sharing one contract, six benchmark-driven gates, and keyless data connectors. This repo carries no skill content — it exists so you can find the discipline; the bundle is where you install it.
 
 16 skills covering the ROAS loop — **Research → Orchestrate → Activate → Scale** — scored by the [ROAS benchmark](https://github.com/aaron-he-zhu/paid-ads-roas-benchmark), with `ad-account-auditor` as the RQS launch gate. Entrypoint command: `/aaron-marketing:ad`.
 
